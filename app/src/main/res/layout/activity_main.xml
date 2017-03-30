@@ -18,6 +18,7 @@
         android:layout_height="wrap_content"
         android:text="@string/check_lbl"/>
     <TextView
+        android:id="@+id/text_quest"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/msg_quest"
